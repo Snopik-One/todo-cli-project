@@ -13,3 +13,7 @@
 
 ```bash
 python -m app.main
+
+## CLI Interface
+
+The application provides a simple command-line interface for task management.
