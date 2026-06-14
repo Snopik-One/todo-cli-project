@@ -11,3 +11,7 @@ python -m app.main
 - done <id>
 - delete <id>
 
+## CLI Interface
+
+The application provides a simple command-line interface for task management.
+# Module responsible for task processing logic
