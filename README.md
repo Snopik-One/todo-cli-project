@@ -13,3 +13,5 @@
 
 ```bash
 python -m app.main
+
+# Module responsible for task processing logic
