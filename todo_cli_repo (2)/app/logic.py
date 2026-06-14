@@ -13,3 +13,4 @@ def complete_task(tasks, task_id):
 
 def delete_task(tasks, task_id):
     tasks[:] = [t for t in tasks if str(t["id"]) != str(task_id)]
+# Module responsible for saving and loading tasks
