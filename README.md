@@ -15,3 +15,6 @@
 python -m app.main
 
 # Module responsible for task processing logic
+## CLI Interface
+
+The application provides a simple command-line interface for task management.
